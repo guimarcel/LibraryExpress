@@ -1,6 +1,6 @@
 # LibraryExpress
 
-First, run the development server:
+First, install the development ambient:
 
 ```bash
 npm install
